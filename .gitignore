@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+*.pyc
+.DS_Store
+Thumbs.db
+data/*.csv
+cardio_data_processed.csv
